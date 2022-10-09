@@ -8,9 +8,10 @@
 # API USED
 [https://www.themoviedb.org/settings/api](https://www.themoviedb.org/settings/api)
 
-# CONCEPTS
+# CONCEPTS USED
 - React Hooks and CustomHook
 - Asynchronous Functions
 - Functional Components
 - materialui
 - React Router
+
